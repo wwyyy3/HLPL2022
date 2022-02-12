@@ -5,10 +5,17 @@
 //  Created by xuan on 2022/2/12.
 //
 
-#include <iostream>
+#include "std_lib_facilities.h"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int square(int x)
+{
+    int i=x, y=0;
+    for (i!=0; y=y+x; i--)
+    {}
+    return y;
+}
+
+int main() {
+    cout<<square(2)<<"\n";
     return 0;
 }
