@@ -9,10 +9,10 @@
 
 int square(int x)
 {
-    int i=x, ans=0;
+    int i=x, a=0;
     for (; i>0; i--){
-        ans=ans+x;}
-    return ans;
+        a=a+x;}
+    return a;
 }
 
 int main() {
