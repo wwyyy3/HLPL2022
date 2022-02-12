@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  homework_4
+//  homework_4.5.1_try this
 //
 //  Created by xuan on 2022/2/12.
 //
@@ -9,10 +9,10 @@
 
 int square(int x)
 {
-    int i=x, y=0;
-    for (i!=0; y=y+x; i--)
-    {}
-    return y;
+    int i=x, ans=0;
+    for (; i>0; i--){
+        ans=ans+x;}
+    return ans;
 }
 
 int main() {
