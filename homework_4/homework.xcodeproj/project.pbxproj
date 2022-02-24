@@ -27,7 +27,7 @@
 		0421472E27C79826007A8E8B /* Writing_a_prog_6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Writing_a_prog_6.cpp; path = ../Homework_6/Writing_a_prog_6.cpp; sourceTree = "<group>"; };
 		0421473227C79898007A8E8B /* std_lib_facilities.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = std_lib_facilities.h; sourceTree = "<group>"; };
 		04CC9F7927B86F7400695E96 /* std_lib_facilities.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = std_lib_facilities.h; sourceTree = "<group>"; };
-		04D5E77127B86A0F00B83B4B /* homework_4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = homework_4; sourceTree = BUILT_PRODUCTS_DIR; };
+		04D5E77127B86A0F00B83B4B /* homework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = homework; sourceTree = BUILT_PRODUCTS_DIR; };
 		04D5E77427B86A0F00B83B4B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,7 +55,7 @@
 		04D5E77227B86A0F00B83B4B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04D5E77127B86A0F00B83B4B /* homework_4 */,
+				04D5E77127B86A0F00B83B4B /* homework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,9 +72,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04D5E77027B86A0F00B83B4B /* homework_4 */ = {
+		04D5E77027B86A0F00B83B4B /* homework */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04D5E77827B86A0F00B83B4B /* Build configuration list for PBXNativeTarget "homework_4" */;
+			buildConfigurationList = 04D5E77827B86A0F00B83B4B /* Build configuration list for PBXNativeTarget "homework" */;
 			buildPhases = (
 				04D5E76D27B86A0F00B83B4B /* Sources */,
 				04D5E76E27B86A0F00B83B4B /* Frameworks */,
@@ -84,9 +84,9 @@
 			);
 			dependencies = (
 			);
-			name = homework_4;
+			name = homework;
 			productName = homework_4;
-			productReference = 04D5E77127B86A0F00B83B4B /* homework_4 */;
+			productReference = 04D5E77127B86A0F00B83B4B /* homework */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 04D5E76C27B86A0F00B83B4B /* Build configuration list for PBXProject "homework_4" */;
+			buildConfigurationList = 04D5E76C27B86A0F00B83B4B /* Build configuration list for PBXProject "homework" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04D5E77027B86A0F00B83B4B /* homework_4 */,
+				04D5E77027B86A0F00B83B4B /* homework */,
 			);
 		};
 /* End PBXProject section */
@@ -263,7 +263,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04D5E76C27B86A0F00B83B4B /* Build configuration list for PBXProject "homework_4" */ = {
+		04D5E76C27B86A0F00B83B4B /* Build configuration list for PBXProject "homework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04D5E77627B86A0F00B83B4B /* Debug */,
@@ -272,7 +272,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04D5E77827B86A0F00B83B4B /* Build configuration list for PBXNativeTarget "homework_4" */ = {
+		04D5E77827B86A0F00B83B4B /* Build configuration list for PBXNativeTarget "homework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04D5E77927B86A0F00B83B4B /* Debug */,
